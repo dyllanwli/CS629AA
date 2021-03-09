@@ -1,1 +1,1 @@
-# opinion-mining
+# Analysis of Algorithms in Golang
