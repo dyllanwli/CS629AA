@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"strconv"
 )
 
@@ -13,6 +12,6 @@ func findNumbers(nums []int) int {
 	return res
 }
 
-func main() {
-	fmt.Println(len(strconv.Itoa(12)) % 2)
-}
+// func main() {
+// 	fmt.Println(len(strconv.Itoa(12)) % 2)
+// }
